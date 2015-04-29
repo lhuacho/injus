@@ -24,6 +24,10 @@ body {
   bottom: 0;
 }
 
+#footer a{
+    color: #fff;
+}
+
 .underline {
   text-decoration: underline;
 }
